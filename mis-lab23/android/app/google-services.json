@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338377833362",
+    "project_id": "sedi-hiq-hiq",
+    "storage_bucket": "sedi-hiq-hiq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338377833362:android:5eece0598eefddeac31f4b",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1PnSiH2dJImar0P8iGHWDAsGlXHRsLGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
